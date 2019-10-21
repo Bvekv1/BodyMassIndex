@@ -52,7 +52,7 @@
 
     </LinearLayout>
     <Button
-        android:id="@+id/BtnCalculate"
+        android:id="@+id/btnAdd"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
