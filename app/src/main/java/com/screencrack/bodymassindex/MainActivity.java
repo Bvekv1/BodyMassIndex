@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements  View.OnClickList
             CalculateBMI cal = new CalculateBMI(Weight, Height);
             bmi = cal.BMI();
             appendStuffs();
+
             EtHeight.getText().clear();
             EtWeight.getText().clear();
         }
